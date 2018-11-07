@@ -89,6 +89,7 @@ nav ul li a {
 nav ul
 {
 	width: 100%;
+	display: none;
 }
 nav ul li 
 { 
