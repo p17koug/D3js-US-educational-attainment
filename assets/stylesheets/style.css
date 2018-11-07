@@ -80,7 +80,7 @@ nav ul li a {
 	font-size: 30px;
 	display: none;
 }
-@media(max-width:768px)
+@media (max-width:768px)
 {
 	.toggle
 	{ 
