@@ -69,7 +69,36 @@ nav ul li a {
   text-decoration: none; 
   color: #a9abae;
 }
-
+.toogle
+{
+	width: 100%;
+	padding: 10xp 20xp;
+	background: #001f44;
+	text-align: right;
+	box-sizing: border-box;
+	color: #fff;
+	font-size: 30px;
+	display: none;
+}
+@media(max-width:768px)
+{
+	.toggle
+	{ 
+		display: block;
+	}
+ul
+{
+	width: 100%;
+}
+ul li { 
+	display: block;
+	text-align: center;
+}
+.active
+	{ 
+		display: block;
+	}
+}
 body {
     font-size: 14px;
     font-family: "Muli", "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
