@@ -86,12 +86,12 @@ nav ul li a {
 	{ 
 		display: block;
 	}
-nav ul
+ ul
 {
 	width: 100%;
 	display: none;
 }
-nav ul li 
+ ul li 
 { 
 	display: block;
 	text-align: center;
